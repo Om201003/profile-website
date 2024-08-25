@@ -1,0 +1,87 @@
+#wrapper{
+    display: grid;
+    
+    background-color: blue;
+}
+div{
+    border: 2px solid black
+}
+#images{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+#about me{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+    
+#wrapper1{
+    display: grid;
+    
+    background-color: red;
+} 
+div{
+    border:2px solid black
+}
+#images{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+#hobbies information{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+#wrapper2{
+    display: grid;
+    
+    background-color: limegreen;
+} 
+div{
+    border:2px solid black
+}
+#images{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+#schoolife{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+  grid-row-end: 3;
+
+
+}
+#wrapper3{
+    display: grid;
+    
+    background-color: yellow;
+} 
+div{
+    border:2px solid black
+}
+#images{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+#culture{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+    
+
